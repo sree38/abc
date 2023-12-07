@@ -3,3 +3,5 @@ print(l);
 print("This is my new program");
 print("welcome to python");
 print("Hello sreebala");
+print("hello every one......");
+

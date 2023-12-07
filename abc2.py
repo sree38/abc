@@ -5,3 +5,4 @@ print("welcome to python");
 print("Hello sreebala");
 print("hello every one......");
 print("Hello friends hai.....");
+print("this is new python program.....");

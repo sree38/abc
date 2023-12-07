@@ -4,5 +4,4 @@ print("This is my new program");
 print("welcome to python");
 print("Hello sreebala");
 print("hello every one......");
-print("Hello friends hai.....:);
-
+print("Hello friends hai.....");

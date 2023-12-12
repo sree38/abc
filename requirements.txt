@@ -1,6 +1,5 @@
 flask
 scikit-learn
-jwt.extend
 jupyter
 grpcio
 protobuf
